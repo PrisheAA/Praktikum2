@@ -1,0 +1,22 @@
+# Praktikum2
+Prishe Annadjar Ardatilla/34/XIRPL2/Praktikum 2
+latihan 1
+![alt text](https://github.com/PrisheAA/Praktikum2/blob/master/Screenshot%20(204).png?raw=true)
+latihan 2
+![alt text](https://github.com/PrisheAA/Praktikum2/blob/master/Screenshot%20(205).png?raw=true)
+latihan 3
+![alt text](https://github.com/PrisheAA/Praktikum2/blob/master/Screenshot%20(206).png?raw=true)
+latihan 4
+![alt text](https://github.com/PrisheAA/Praktikum2/blob/master/Screenshot%20(207).png?raw=true)
+latihan 5
+![alt text](https://github.com/PrisheAA/Praktikum2/blob/master/Screenshot%20(208).png?raw=true)
+latihan 6
+![alt text](https://github.com/PrisheAA/Praktikum2/blob/master/Screenshot%20(209).png?raw=true)
+latihan 7
+![alt text](https://github.com/PrisheAA/Praktikum2/blob/master/Screenshot%20(210).png?raw=true)
+latihan 8
+![alt text](https://github.com/PrisheAA/Praktikum2/blob/master/Screenshot%20(211).png?raw=true)
+latihan 9
+![alt text](https://github.com/PrisheAA/Praktikum2/blob/master/Screenshot%20(212).png?raw=true)
+latihan 10
+![alt text](https://github.com/PrisheAA/Praktikum2/blob/master/Screenshot%20(213).png?raw=true)
